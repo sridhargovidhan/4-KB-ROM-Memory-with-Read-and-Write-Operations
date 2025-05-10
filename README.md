@@ -1,6 +1,6 @@
 # 4 KB-ROM-Memory-with-Read-and-Write-Operations
-# NAME : HARIHARAN N
-# REG NO: 212223060079
+# NAME : SRIDHAR G
+# REG NO: 212223060271
 
 
 ## Aim:
